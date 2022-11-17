@@ -1,0 +1,47 @@
+#counter{
+    text-align: center;
+    margin-top: 15%;
+    font-family: 'Lobster', cursive;
+}
+#counter>h3{
+    font-size: 4rem;
+    color: brown;
+}
+#counter>h1{
+    font-size: 6rem;
+}
+
+#btn button{
+    margin: 0.3rem;
+    padding: 0.5rem;
+    font-weight: 900px;
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#btn #btn1{
+    background-color: blueviolet;
+    color: white;
+    font-weight: 900;
+}
+#btn #btn1:hover{
+    background-color: green;
+}
+
+#btn #btn2{
+    font-weight: 900;
+}
+#btn #btn2:hover{
+    background-color: blue;
+    color: white;
+}
+
+#btn #btn3{
+    background-color: chocolate;
+    color: white;
+    font-weight: 900;
+}
+#btn #btn3:hover{
+    background-color: red;
+}
